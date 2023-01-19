@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--narayansynapse-sasdslgen2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/db32e1a2-2953-40cb-a316-af8ca15e15eb/resourceGroups/rgDay4/providers/Microsoft.Storage/storageAccounts/sasdslgen2",
+		"groupId": "dfs"
+	}
+}

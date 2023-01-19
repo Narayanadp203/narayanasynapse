@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--narayansynapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/db32e1a2-2953-40cb-a316-af8ca15e15eb/resourceGroups/rgDay4/providers/Microsoft.Synapse/workspaces/narayansynapse",
+		"groupId": "sql",
+		"fqdns": [
+			"narayansynapse.af894002-ab23-458b-ad0c-655a8a15a7b0.sql.azuresynapse.net"
+		]
+	}
+}
